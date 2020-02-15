@@ -422,7 +422,7 @@
       { 'include': '#unsafe' }
       {
         'comment': 'Function arguments'
-        'match': '\bfn\b'
+        'match': '\\bfn\\b'
         'name': 'keyword.other.fn.rust'
       }
     ]
